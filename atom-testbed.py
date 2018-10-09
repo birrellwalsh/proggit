@@ -1,3 +1,3 @@
 ''' A testbed for python on atom'''
 
-print ("Python 3 prechange")
+print ("Python 3 postchange")
